@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.codejams.mapper.BorrowerMapper">
+
+    <select id="findAllBorrower" resultType="borrower">
+        select * from borrower
+    </select>
+
+    <select id="findBorrowerById" resultType="borrower" parameterType="int">
+        select * from borrower where id = #{id}
+    </select>
+
+    <update id="update" parameterType="borrower">
+        update borrower set name = #{name}, age = #{age}, sex = #{sex}, detail = #{detail},book = #{book} where id = #{id}
+    </update>
+
+    <delete id="delete" parameterType="int">
+        delete from borrower where id = #{id}
+    </delete>
+
+    <insert id="save" parameterType="borrower">
+        insert into borrower values(null,#{name},#{age},#{sex},#{detail},#{book})
+    </insert>
+
+    <select id="findBorrowerByCondition" parameterType="string" resultType="borrower">
+        SELECT * from borrower where name like CONCAT(CONCAT('%',#{condition},'%'))
+                  or id like CONCAT(CONCAT('%',#{condition},'%'))
+                  or age like CONCAT(CONCAT('%',#{condition},'%'))
+                  or sex like CONCAT(CONCAT('%',#{condition},'%'))
+                  or detail like CONCAT(CONCAT('%',#{condition},'%'))
+                  or book like CONCAT(CONCAT('%',#{condition},'%'))
+    </select>
+
+</mapper>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+
+<!--  加载配置文件  -->
+    <properties resource="jdbc.properties"></properties>
+
+<!--  定义别名  -->
+    <typeAliases>
+<!--        <typeAlias type="com.codejams.domain.Student" alias="student"></typeAlias>-->
+        <package name="com.codejams.domain"/>
+    </typeAliases>
+    
+    <environments default="developement">
+        <environment id="developement">
+            <transactionManager type="JDBC"></transactionManager>
+            <dataSource type="POOLED">
+                <property name="driver" value="${driver}"/>
+                <property name="url" value="${url}"/>
+                <property name="username" value="${user}"/>
+                <property name="password" value="${password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+<!--  加载映射  -->
+<!--    <mappers>-->
+<!--        <mapper resource="com/codejams/mapper/AccountMapper.xml"></mapper>-->
+<!--    </mappers>-->
+
+    <mappers>
+        <mapper resource="com/codejams/mapper/BookMapper.xml"></mapper>
+        <mapper resource="com/codejams/mapper/AdminMapper.xml"></mapper>
+        <mapper resource="com/codejams/mapper/BorrowerMapper.xml"></mapper>
+    </mappers>
+</configuration>

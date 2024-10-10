@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssmDemo_pro03:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c6e17a5-f0de-4afc-a356-b1e783d73291" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\JavaSpace\maven_repository" />
+        <option name="userSettingsFile" value="C:\JavaSpace\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8 (2)" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="28SZ1ha0h1l2bCMABND8xzsTm6P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/codejams/Desktop/Java/项目单/基于Android系统的校园二手物品回收交易平台APP/项目源码/ssmgj961",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "7deaedf662a90d6adf686bc00e6ebafc"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\codejams\Desktop\Java\项目单\ssmDemo_pro03\src\main\java\com\codejams\service" />
+      <recent name="C:\Users\codejams\Desktop\Java\项目单\ssmDemo_pro03\src\main\java\com\codejams" />
+      <recent name="C:\Users\邱锦宏\Desktop\Java\项目单\ssmDemo_pro03\src\main\webapp\workbench\activity" />
+      <recent name="C:\Users\邱锦宏\Desktop\Java\项目单\ssmDemo_pro03\src\main\resources" />
+      <recent name="C:\Users\邱锦宏\Desktop\Java\项目单\ssmDemo_pro03\src\main\resources\com\codejams\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.codejams.service" />
+      <recent name="com.codejams.temp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat1">
+    <configuration name="daoTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssmDemo_pro03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="daoTest" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="daoTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssmDemo_pro03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="daoTest" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="daoTest.test05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssmDemo_pro03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="daoTest" />
+      <option name="METHOD_NAME" value="test05" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="daoTest.test06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssmDemo_pro03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="daoTest" />
+      <option name="METHOD_NAME" value="test06" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="daoTest.test07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssmDemo_pro03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="daoTest" />
+      <option name="METHOD_NAME" value="test07" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat1" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:7878/demo/login.jsp" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="ssmDemo_pro03:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/demo" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="af1c32be-ce41-44e9-b6f1-69f4281870c2" />
+        <option name="HTTP_PORT" value="7878" />
+        <option name="JNDI_PORT" value="1098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9700" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="36427" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssmDemo_pro03:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.daoTest.test03" />
+      <item itemvalue="JUnit.daoTest.test04" />
+      <item itemvalue="JUnit.daoTest.test05" />
+      <item itemvalue="JUnit.daoTest.test06" />
+      <item itemvalue="JUnit.daoTest.test07" />
+      <item itemvalue="Tomcat Server.Tomcat1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.daoTest.test07" />
+        <item itemvalue="JUnit.daoTest.test06" />
+        <item itemvalue="JUnit.daoTest.test05" />
+        <item itemvalue="JUnit.daoTest.test04" />
+        <item itemvalue="JUnit.daoTest.test03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c6e17a5-f0de-4afc-a356-b1e783d73291" name="Changes" comment="" />
+      <created>1651211737274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651211737274</updated>
+      <workItem from="1651211739559" duration="987000" />
+      <workItem from="1651215248825" duration="229000" />
+      <workItem from="1651215492541" duration="8057000" />
+      <workItem from="1651237110969" duration="13429000" />
+      <workItem from="1651294412110" duration="9816000" />
+      <workItem from="1651325056544" duration="812000" />
+      <workItem from="1651405254250" duration="12033000" />
+      <workItem from="1651731409825" duration="458000" />
+      <workItem from="1652173114564" duration="2049000" />
+      <workItem from="1652336489498" duration="33000" />
+      <workItem from="1652869588622" duration="1661000" />
+      <workItem from="1653231586406" duration="1529000" />
+      <workItem from="1653233520711" duration="10000" />
+      <workItem from="1653402737037" duration="1441000" />
+      <workItem from="1653449444885" duration="15000" />
+      <workItem from="1654706426105" duration="177000" />
+      <workItem from="1669344758110" duration="168000" />
+      <workItem from="1669352832460" duration="94000" />
+      <workItem from="1697344287447" duration="3442000" />
+      <workItem from="1697362743798" duration="25000" />
+      <workItem from="1704195450158" duration="831000" />
+      <workItem from="1704356074015" duration="2306000" />
+      <workItem from="1704415473408" duration="7000" />
+      <workItem from="1704463275633" duration="1277000" />
+      <workItem from="1704501874159" duration="1562000" />
+      <workItem from="1704503687904" duration="611000" />
+      <workItem from="1705654741104" duration="152000" />
+      <workItem from="1716892640046" duration="2743000" />
+      <workItem from="1716973744308" duration="9000" />
+      <workItem from="1718265689439" duration="7000" />
+      <workItem from="1718276143125" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/codejams/controller/BookController.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
